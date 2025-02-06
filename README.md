@@ -1,2 +1,1 @@
-# Mini Project II Protfolio-management
- 
+# Information Section Contains the Basic information and credentials
